@@ -23,8 +23,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: <https://your-solution-url.com>
-- Live Site URL: <https://your-live-site-url.com>
+- Solution URL: <https://www.frontendmentor.io/solutions/the-majestic-paunch-JhnHjmDW46>
+- Live Site URL: <https://qr-code-component-solution-1234.netlify.app>
 
 ## My process
 
